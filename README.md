@@ -2,17 +2,14 @@
 A comprehensive data analysis and behavioral summary of criminal justice trends for the fictional Anycounty District Attorney's Office.
 
 **This project is a fictional exercise.** 
-
 All data, scenarios, and outcomes described herein are theoretical and were generated using publicly available data from a jurisdiction in California for assessment purposes only. "Anycounty" is a fictional entity, and the results do not represent actual events or real-world policy outcomes.
 
 **The analysis is built upon three core administrative datasets:**
-
 **Police Department Incident Reports:** Contains raw incident data, including dates, categories (theft, drugs, guns), and report types.
 **District Attorney Cases Prosecuted:** Details on cases where the DA took action, including the most serious charges and action types.
 **District Attorney Case Resolutions:** Information on final case outcomes, including disposition codes (e.g., "1385 PC - Guilty Plea to Other Charge") and timestamps
 
 **Key Objectives:**
-
 **Trend Identification:** Analyze changes in arrests, case filings, and resolutions over a 5-year span.
 **Policy Impact Analysis:** Measure the specific effects of the December 2024 legal changes on drug crimes, theft, and gun-related offenses.
 **Efficiency Metrics:** Calculate and visualize the average time from case filing to final disposition.
